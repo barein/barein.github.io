@@ -1,0 +1,29 @@
+body
+{
+	background-image: url("./bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+p
+{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.nav-title
+{
+    font-size: 2.25em;
+    color: white;
+}
+
+.font-1
+{
+    font-size: 1em;
+}
+
+.white-text
+{
+	color: white;
+}
+
